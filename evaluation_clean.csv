@@ -1,0 +1,51 @@
+image,class,truth,text,similarity,exact
+thyrocare_0_4468,patient_info,NAME : ASHIM KR SENGUPTA (25Y/M) | REF. BY : SELF | TEST ASKED : AAROGYAM A,NAME ; ASHIM KR SENGUPTA (25Y/M) | REF. BY : SELF | TEST ASKED : AAROGYAM A,0.9866666666666667,False
+thyrocare_0_4468,ref_range,60-200 | 4.5-12 | 0.3-5.5,60-200 | 4.5-12 | 0.3-5.5,1.0,True
+thyrocare_0_4468,test_name,TOTAL TRIIODOTHYRONINE (T3) | TOTAL THYROXINE (T4) | THYROID STIMULATING HORMONE (TSH),TOTAL TRIIODOTHYRONINE (T3) | TOTAL THYROXINE (T4) | THYROID STIMULATING HORMONE (TSH),1.0,True
+thyrocare_0_4468,units,ng/dl | µg/dl | µIU/ml,ng/dl | µg/dl | pg/ml,0.8837209302325582,False
+thyrocare_0_4468,value,76 | 5 | 2.14,76 | 5 | 2.14,1.0,True
+thyrocare_0_447,patient_info,NAME : ASHIM KR SENGUPTA (25Y/M) | REF. BY : SELF | TEST ASKED : AAROGYAM A,ANE : ASHIM KR SENGUPTA (25Y/M) | REF. BY : SELF | TEST ASKED 2 AAROGYAM A,0.9664429530201343,False
+thyrocare_0_447,ref_range,60-200 | 4.5-12 | 0.3-5.5,60-200 | 4.5-12 | 0.3-5.5,1.0,True
+thyrocare_0_447,test_name,TOTAL TRIIODOTHYRONINE (T3) | TOTAL THYROXINE (T4) | THYROID STIMULATING HORMONE (TSH),TOTAL TRIIODOTHYRONINE (T3) | TOTAL THYROXINE (T4) | THYROID STIMULATING HORMONE (TSH),1.0,True
+thyrocare_0_447,units,ng/dl | µg/dl | µIU/ml,ng/dl | pa/di | pg/ml,0.7441860465116279,False
+thyrocare_0_447,value,76 | 5 | 2.14,76 | 5 | 2.14,1.0,True
+thyrocare_0_5858,patient_info,NAME : ASHIM SENGUPTA (58Y/M) | REF. BY : SELF | TEST ASKED : AAROGYAM C,NAME : ASHIM SENGUPTA (S8Y/M) | REF. BY : SELF | TEST ASKED : AAROGYAM C,0.9861111111111112,False
+thyrocare_0_5858,ref_range,45 - 129 | 0.3-1.2 | < 0.3 | 0-0.9 | < 55 | < 35 | < 45 | 5.7-8.2 | 3.2-4.8 | 0.9 - 2 | 2.5-3.4,45 - 129 | 0.3-1.2 | <0.% | 0-0.9 | < 55 | < 35 | < 45 | 5.7-8.2 | 3.2-4.8 | 0.9-2 | 2.5-3.4,0.9732620320855615,False
+thyrocare_0_5858,test_name,ALKALINE PHOSPHATASE | BILIRUBIN - TOTAL | BILIRUBIN -DIRECT | BILIRUBIN (INDIRECT) | GAMMA GLUTAMYL TRANSFERASE (GGT) | ASPARTATE AMINOTRANSFERASE (SGOT) | ALANINE TRANSAMINASE (SGPT) | PROTEIN - TOTAL | ALBUMIN - SERUM | SERUM ALB/GLOBULIN RATIO | SERUM GLOBULIN,ALKALINE PHOSPHATASE | BILIRUBIN - TOTAL | BILIRUBIN -DIRECT | BILIRUBIN (INDIRECT) | GAMMA GLUTAMYL TRANSFERASE (GGT) | ASPARTATE AMINOTRANSFERASE (SGOT) | ALANINE TRANSAMINASE (SGPT) | PROTEIN - TOTAL | ALBUMIN - SERUM | SERUM ALB/GLOBULIN RATIO | SERUM GLOBULIN,1.0,True
+thyrocare_0_5858,units,U/L | mg/dl | mg/dl | mg/dl | U/l | U/l | U/l | gm/dl | gm/dl | Ratio | gm/dL,U/l | mg/dl | mg/dl | mg/dl | U/l | U/l | U/l | gm/dl | gm/dl | Ratio | gm/dl,1.0,True
+thyrocare_0_5858,value,67 | 0.57 | 0.18 | 0.39 | 34.3 | 33.1 | 38.9 | 7.14 | 3.93 | 1.22 | 3.21,67 | 0.57 | 0.18 | 0.39 | 34.3 | 33.1 | 38.9 | 7.14 | 3.93 | 1.22 | 3.21,1.0,True
+thyrocare_0_6222,patient_info,NAME : ASHIM SENGUPTA (58Y/M) | REF. BY : SELF | TEST ASKED : AAROGYAM C,ANG 3 ASHIM SENGUPTA (S8V/M) | Rar. ay : SELF | Tesv ASKEO 2 AAROGYAM C,0.8391608391608392,False
+thyrocare_0_6222,ref_range,Reference Range : | DEFICIENCY : <20 ng/ml | INSUFFICIENCY : 20-<30 ng/ml | SUFFICIENCY : 30-100 ng/ml | TOXICITY : >100 ng/ml | Reference Range : | Normal : 211 - 911 pg/ml,Reference Range : | ORFICIENCY « | < 20 ym | INSUFFIQIENCY . 20-<30 ng/mi | SUFFICIENCY — 30-100 nq/mi | rouarry . » 100 ngyml | Reference Range | Normal: 21 - 921 pg/mi,0.847953216374269,False
+thyrocare_0_6222,test_name,25-OH VITAMIN D (TOTAL) | VITAMIN B-12,25-OH VITAMIN D (TOTAL) | VITAMIN B-12 | VITAMIN B-12,0.8351648351648352,False
+thyrocare_0_6222,units,ng/ml | pg/ml,ng/ml | pg/ml,1.0,True
+thyrocare_0_6222,value,21 | 551,21 | 551,1.0,True
+thyrocare_0_6884,patient_info,NAME : ASHIM KR SENGUPTA (25Y/M) | REF. BY : SELF | TEST ASKED : AAROGYAM A,MAME : ASHIM KR SENGUPTA (25Y/M) | REF. BY : SELF | TeST ASKED : AAROGYAM A,0.9866666666666667,False
+thyrocare_0_6884,ref_range,60-200 | 4.5-12 | 0.3-5.5,60-200 | 4.5-12 | 0.3-5.5,1.0,True
+thyrocare_0_6884,test_name,TOTAL TRIIODOTHYRONINE (T3) | TOTAL THYROXINE (T4) | THYROID STIMULATING HORMONE (TSH),TOTAL TRIIODOTHYRONINE (T3) | TOTAL THYROXINE (T4) | THYROID STIMULATING HORMONE (TSH),1.0,True
+thyrocare_0_6884,units,ng/dl | µg/dl | µIU/ml,ng/dl | yaq/di | µIU/ml,0.8444444444444444,False
+thyrocare_0_6884,value,76 | 5 | 2.14,76 | 5 | 2.14,1.0,True
+thyrocare_0_7758,patient_info,NAME : ASHIM KR SENGUPTA (25Y/M) | REF. BY : SELF | TEST ASKED : AAROGYAM A,AME : ASHIM KR SENGUPTA (25Y/M) | REF. BY : SELF | TEST ASKED 2 AAROGYAM A,0.9798657718120806,False
+thyrocare_0_7758,ref_range,60-200 | 4.5-12 | 0.3-5.5,60-200 | 4.5-12 | 0.3-5.5,1.0,True
+thyrocare_0_7758,test_name,TOTAL TRIIODOTHYRONINE (T3) | TOTAL THYROXINE (T4) | THYROID STIMULATING HORMONE (TSH),TOTAL TRIIODOTHYRONINE (T3) | TOTAL THYROXINE (T4) | THYROID STIMULATING HORMONE (TSH),1.0,True
+thyrocare_0_7758,units,ng/dl | µg/dl | µIU/ml,ng/dl | ya/di | pg/ml,0.7441860465116279,False
+thyrocare_0_7758,value,76 | 5 | 2.14,76 | 5 | 2.14,1.0,True
+thyrocare_0_8251,patient_info,NAME : ASHIM SENGUPTA (58Y/M) | REF. BY : SELF | TEST ASKED : AAROGYAM C,NAME : ASHIM SENGUPTA (58Y/M) | REF. BY : SELF | TEST ASKED : AAROGYAM C,1.0,True
+thyrocare_0_8251,ref_range,45 - 129 | 0.3-1.2 | < 0.3 | 0-0.9 | < 55 | < 35 | < 45 | 5.7-8.2 | 3.2-4.8 | 0.9 - 2 | 2.5-3.4,45 - 129 | 0.3-1.2 | < O.% | 0-0.9 | < 55 | < 35 | < 45 | §.7-8.2 | 3.2-4.8 | 0.9-2 | 2.5-3.4,0.9574468085106383,False
+thyrocare_0_8251,test_name,ALKALINE PHOSPHATASE | BILIRUBIN - TOTAL | BILIRUBIN -DIRECT | BILIRUBIN (INDIRECT) | GAMMA GLUTAMYL TRANSFERASE (GGT) | ASPARTATE AMINOTRANSFERASE (SGOT) | ALANINE TRANSAMINASE (SGPT) | PROTEIN - TOTAL | ALBUMIN - SERUM | SERUM ALB/GLOBULIN RATIO | SERUM GLOBULIN,ALKALINE PHOSPHATASE | BILIRUBIN - TOTAL | BILIRUBIN -DIRECT | BILIRUBIN (INDIRECT) | GAMMA GLUTAMYL TRANSFERASE (GGT) | ASPARTATE AMINOTRANSFERASE (SGOT) | ALANINE TRANSAMINASE (SGPT) | PROTEIN - TOTAL | ALBUMIN - SERUM | SERUM ALB/GLOBULIN RATIO | SERUM GLOBULIN,1.0,True
+thyrocare_0_8251,units,U/L | mg/dl | mg/dl | mg/dl | U/l | U/l | U/l | gm/dl | gm/dl | Ratio | gm/dL,U/l | mg/dl | mg/dl | mg/dl | U/l | U/l | U/l | gm/dl | gm/dl | Ratio | mg/dl,0.987012987012987,False
+thyrocare_0_8251,value,67 | 0.57 | 0.18 | 0.39 | 34.3 | 33.1 | 38.9 | 7.14 | 3.93 | 1.22 | 3.21,67 | 0.57 | 0.18 | 0.39 | 34.3 | 33.1 | 38.9 | 7.14 | 3.93 | 1.22 | 3.21,1.0,True
+thyrocare_0_8310,patient_info,NAME : ASHIM SENGUPTA (58Y/M) | REF. BY : SELF | TEST ASKED : AAROGYAM C,MANE 3 ASHIM SENGUPTA (SHV¥/M) | aur. oY 3 Séur | TRST ASKED 3 AAROGYAM C,0.7862068965517242,False
+thyrocare_0_8310,ref_range,Reference Range : | DEFICIENCY : <20 ng/ml | INSUFFICIENCY : 20-<30 ng/ml | SUFFICIENCY : 30-100 ng/ml | TOXICITY : >100 ng/ml | Reference Range : | Normal : 211 - 911 pg/ml,Raterence Range : | OBFICIENCY. < 20 ng | INSUPFIGIENCY © 20.< 30 ng/m | SUBFICIENCY — 30-100 no/mi | TOUaTyY . 2100 nae | Reference Range : | Mormal: 711 - 9131 poy,0.5502958579881657,False
+thyrocare_0_8310,test_name,25-OH VITAMIN D (TOTAL) | VITAMIN B-12,25-OH VITAMIN D (TOTAL) | VITAMIN B-12,1.0,True
+thyrocare_0_8310,units,ng/ml | pg/ml,ng/ml | pg/ml,1.0,True
+thyrocare_0_8310,value,21 | 551,23 | 552,0.75,False
+thyrocare_0_838,patient_info,NAME : ASHIM SENGUPTA (58Y/M) | REF. BY : SELF | TEST ASKED : AAROGYAM C,NAME : ASHIM SENGUPTA (S8Y/M) | Ree. SY : SELF | TEST ASKED =: AAROGYAMC,0.9444444444444444,False
+thyrocare_0_838,ref_range,Reference Range : | DEFICIENCY : <20 ng/ml | INSUFFICIENCY : 20-<30 ng/ml | SUFFICIENCY : 30-100 ng/ml | TOXICITY : >100 ng/ml | Reference Range : | Normal : 211 - 911 pg/ml,Reference Range : | DEFICIENCY : <20 ng/m! | INSUFFIGIENCY : 20-<3G ng/mi | SUFFICIENCY — 30-100 ng/mi | TOXICITY §—. > 100 ngymi | Reference Range : | Normal: 211-915 pg/mi,0.9190751445086706,False
+thyrocare_0_838,test_name,25-OH VITAMIN D (TOTAL) | VITAMIN B-12,25-OH VITAMIN D (TOTAL) | VITAMIN B-12,1.0,True
+thyrocare_0_838,units,ng/ml | pg/ml,ng/ml | pajmi,0.7692307692307693,False
+thyrocare_0_838,value,21 | 551,21 | 352,0.75,False
+thyrocare_0_9833,patient_info,: ASHIM KR SENGUPTA (25Y/M) | : SELF | : AAROGYAM A,"= : ASHIM KR SENGUPTA (25Y/™) | , BY : SELF | Tv ASKED : AAROGYAM A",0.847457627118644,False
+thyrocare_0_9833,ref_range,60-200 | 4.5-12 | 0.3-5.5,60-200 | 4.5-12 | 0.3-5.5,1.0,True
+thyrocare_0_9833,test_name,TAL TRIIODOTHYRONINE (T3) | TAL THYROXINE (T4) | YROID STIMULATING HORMONE (TSH),TOTAL TRIIODOTHYRONINE (T3) | TOTAL THYROXINE (T4) | THYROID STIMULATING HORMONE (TSH),0.963855421686747,False
+thyrocare_0_9833,units,ng/dl | µg/dl | µIU/ml,ng/dl | U/l | µIU/ml,0.9047619047619048,False
+thyrocare_0_9833,value,76 | 5 | 2.14,76 | 5 | 2.14,1.0,True

@@ -1,0 +1,10 @@
+image,class,x1,y1,x2,y2,conf,text
+thyrocare_0_8491,patient_info,32,179,261,237,0.81,WAMe 1 ASHIM SENGUPTA (58Y/M} | ReP. BY + SEU | TEST ASKED 3 AAROGYAM C
+thyrocare_0_8491,ref_range,38,299,183,357,0.97,Reference Range : | DEFICIENCY: <20 ng/mi | INSUFFIGIENCY « 20-< 20 ng/mi | SUFFICIENCY § . 30-200 ng/m | TOUaTY >100 ngemt
+thyrocare_0_8491,ref_range,39,413,162,441,0.86,Reference Range: | Normal: 211-911 pgymi
+thyrocare_0_8491,test_name,36,280,193,296,0.66,25-OH VITAMIN D (TOTAL)
+thyrocare_0_8491,test_name,38,398,156,415,0.31,VITAMIN B-12
+thyrocare_0_8491,units,464,274,523,300,0.53,ng/ml
+thyrocare_0_8491,units,466,394,515,417,0.56,pg/ml
+thyrocare_0_8491,value,395,278,425,299,0.44,21
+thyrocare_0_8491,value,395,393,429,415,0.39,351
